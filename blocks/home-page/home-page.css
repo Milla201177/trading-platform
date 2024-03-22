@@ -1,0 +1,5 @@
+.home-page {
+    display: flex;
+    padding: 135px 30px 0 24px;
+    gap: 8%;
+}

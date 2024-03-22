@@ -1,0 +1,9 @@
+.ad__search-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    position: relative;
+    padding: 0 23px 69px;
+    gap: 17px;
+    box-shadow: 0 4px 4px 0 #0000001A;
+}

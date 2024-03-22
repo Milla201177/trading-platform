@@ -1,0 +1,10 @@
+.home-page__right {
+    flex-basis: 43%;
+    font-size: 21px;
+    line-height: 29px;
+    display: flex;
+    flex-direction: column;
+    gap: 55px;
+    padding-top: 21px;
+    letter-spacing: 0.16px;
+}

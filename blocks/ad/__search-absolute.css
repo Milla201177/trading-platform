@@ -1,0 +1,6 @@
+.ad__search-absolute {
+    position: absolute;
+    z-index: 0;
+    top: 51px;
+    right: 57px;
+}

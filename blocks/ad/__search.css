@@ -1,0 +1,28 @@
+.ad__search {
+    background-color: #E5E5E5;
+    color: #FFFFFF;
+    border-radius: 12px;
+    height: 332px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: flex-start;
+    padding-top: 24px;
+    padding-bottom: 44px;
+    padding-left: 24px;
+}
+
+.ad__search:nth-child(1) {
+    width: 27%;
+}
+.ad__search:nth-child(2) {
+    width: 67%;
+}
+.ad__search:nth-child(3) {
+    width: 67%;
+    z-index: 1;
+}
+.ad__search:nth-child(4) {
+    width: 27%;
+    z-index: 1;
+}

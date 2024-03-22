@@ -1,0 +1,15 @@
+.search__profile {
+    float: right;
+    display: flex;
+    gap: 8px;
+    align-items: center;
+    background-color: #FFFFFF;
+    border-radius: 40px;
+    border: 1px solid #000000;
+    font-size: 15px;
+    letter-spacing: 0.16px;
+    padding: 2px 28px 4px 17px;
+    position: absolute;
+    right: 24px;
+    top: 16px;
+}

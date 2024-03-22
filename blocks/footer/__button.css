@@ -1,0 +1,9 @@
+.footer__button {
+    margin: 88px auto 70px;
+    width: 20%;
+    height: 77px;
+    border: 2px solid #000000;
+    border-radius: 40px;
+    background-color: #FFFFFF;
+    display: flex;
+}

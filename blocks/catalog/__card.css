@@ -1,0 +1,7 @@
+.catalog__card {
+    display: flex;
+    flex-direction: row;
+    gap: 256px;
+    align-items: center;
+    position: relative;
+}

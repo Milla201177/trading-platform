@@ -1,0 +1,10 @@
+.ad__input-search {
+    outline: none;
+    padding: 6px 22px 6px 22px;
+    height: 40px;
+    border-radius: 40px;
+    border: 1px solid #000000;
+    text-align: right;
+    font-size: 19px;
+    width: 150px;
+}

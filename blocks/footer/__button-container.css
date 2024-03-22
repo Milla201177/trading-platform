@@ -1,0 +1,10 @@
+.footer__button-container {
+    width: 100%;
+    height: 56px;
+    border-radius: 40px;
+    border: 1px solid #FFFFFF;
+    background-color: #9C0E43;
+    margin-top: 31px;
+    padding: 0;
+    position: relative;
+}
