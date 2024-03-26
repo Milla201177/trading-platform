@@ -1,1 +1,9 @@
-# trading-platform
+[# сайт магазина одежды](https://milla201177.github.io/trading-platform/)  
+
+Информация по верстке
+-
+- HTML
+- CSS
+- Проект реализован по методологии **БЭМ**. 
+- Построение сеток с помощью **flexbox**
+- Верстка по **PixelPerfect**
